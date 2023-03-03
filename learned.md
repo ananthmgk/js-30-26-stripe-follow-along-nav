@@ -12,3 +12,6 @@ div#first > p {
 </div>
 ```
 `.getBoundingClientRect()` will tell the height, width positions etc, details of the the element.
+
+Link:
+`https://ananthmgk.github.io/js-30-26-stripe-follow-along-nav/`
